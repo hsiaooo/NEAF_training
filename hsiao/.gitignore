@@ -2,4 +2,4 @@ DQN-Atari/*
 *.pth
 *.mp4
 DQN/video/*
-
+*.swp
