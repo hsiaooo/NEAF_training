@@ -28,7 +28,7 @@ if __name__ == '__main__':
         "replay-buffer-size": int(5e3),  # replay buffer size
         "learning-rate": 1e-4,  # learning rate for Adam optimizer
         "discount-factor": 0.99,  # discount factor
-        "dqn_type":"neurips",
+        "dqn_type":"nature",
         # total number of steps to run the environment for
         "num-steps": int(1e6),
         "batch-size": 32,  # number of transitions to optimize at the same time
