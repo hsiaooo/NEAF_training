@@ -6,4 +6,4 @@
 # files
 DQN-Atari/*
 DQN/video/*
-DQN/rewards_per_episode.csv/*
+DQN/rewards_per_episode.csv*
