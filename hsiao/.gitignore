@@ -1,5 +1,9 @@
-DQN-Atari/*
+# file name extension
 *.pth
 *.mp4
-DQN/video/*
 *.swp
+
+# files
+DQN-Atari/*
+DQN/video/*
+DQN/rewards_per_episode.csv/*
